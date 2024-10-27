@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Yunus Emre Tom
-![Orange Modern Technology LinkedIn Banner](https://github.com/user-attachments/assets/f1471399-a333-4e14-83a5-062162b6e0b3)
+
+![Adsız tasarım (3)](https://github.com/user-attachments/assets/8e0d79cb-b68c-4018-a4a6-53bf259b2351)
 
 
 
