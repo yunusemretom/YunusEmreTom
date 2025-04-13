@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Yunus Emre Tom
+## Hi there 👋, my name is Yunus Emre Tom
 
 ![engIneer](https://github.com/user-attachments/assets/368e06b2-1a02-4f9a-a669-6b74d2decadb)
 
-## About Me
+## ╰┈➤ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 I'm a passionate developer focused on combining software and electronics to solve real-world problems. I actively develop projects using languages such as Python, C++, Java, and JavaScript, with a particular interest in artificial intelligence, computer vision, voice assistant systems, and embedded systems.
 
 ### 🛠️ Areas I focus on:
@@ -17,7 +17,7 @@ I enjoy contributing to open-source projects and sharing what I learn with the c
 
 💡 My goal is to create sustainable, smart solutions by merging software with hardware. I see every project as a learning opportunity and strive to stay open to growth and innovation.
 
-## 🌐 Socials:
+## 🌐.ᐟ Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yunusemretom) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yunus-emre-tom-463706216/)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yunusemretom)
 
 # 💻 Tech Stack:
@@ -28,7 +28,3 @@ I enjoy contributing to open-source projects and sharing what I learn with the c
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=YunusEmreTom&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=YunusEmreTom&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
