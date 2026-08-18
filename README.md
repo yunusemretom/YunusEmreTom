@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=3FB950&center=true&vCenter=true&width=580&height=50&lines=%24+whoami+%E2%86%92+Yunus+Emre+Tom;%24+cat+focus.txt+%E2%86%92+vision+%C2%B7+voice+%C2%B7+autonomy;%24+status+%E2%86%92+building+UAV+systems" alt="Yunus Emre Tom" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=3FB950&center=true&vCenter=true&width=720&height=40&lines=%24+whoami+%E2%86%92+Yunus+Emre+Tom;%24+cat+focus.txt+%E2%86%92+vision+%C2%B7+voice+%C2%B7+autonomy;%24+status+%E2%86%92+building+UAV+systems" alt="Yunus Emre Tom" />
 
 <a href="https://linkedin.com/in/yunus-emre-tom-463706216/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a> <a href="https://youtube.com/@yunusemretom"><img src="https://img.shields.io/badge/YouTube-0d1117?style=flat-square&logo=youtube&logoColor=FF0000" alt="YouTube" /></a> <a href="https://instagram.com/yunusemretom"><img src="https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" /></a> <a href="mailto:yunusemretom@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 
 </div>
 
-<br />
-
-### `$` whoami
+## `$` whoami
 
 I build systems where software meets hardware — real-time computer vision on the edge, Turkish voice interfaces, and autonomous flight software. Most of my work starts as a competition project (TEKNOFEST and friends) and ends up open source.
 
@@ -17,9 +15,7 @@ I build systems where software meets hardware — real-time computer vision on t
 - **UAV autonomy** — ROS 2, PX4 / ArduPilot, offboard control, SITL simulation
 - **Ground systems** — telemetry tooling and mission control interfaces
 
-<br />
-
-### `$` ls ~/projects
+## `$` ls ~/projects
 
 <table>
 <tr>
@@ -64,15 +60,11 @@ Vision-based air defense system built for Team Pars.
 </tr>
 </table>
 
-<br />
-
-### `$` stack
+## `$` stack
 
 <img src="https://skillicons.dev/icons?i=py,cpp,cs,java,js,opencv,pytorch,ros,linux,git,docker&perline=11" alt="Python, C++, C#, Java, JavaScript, OpenCV, PyTorch, ROS, Linux, Git, Docker" />
 
-<br /><br />
-
-### `$` stats
+## `$` stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yunusemretom&theme=github_dark" alt="Profile summary" />
 
