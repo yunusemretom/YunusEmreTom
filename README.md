@@ -1,30 +1,98 @@
-## Hi there 👋, my name is Yunus Emre Tom
+<div align="center">
 
-![engIneer](https://github.com/user-attachments/assets/368e06b2-1a02-4f9a-a669-6b74d2decadb)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=3FB950&center=true&vCenter=true&width=560&height=45&lines=%24+whoami+%E2%86%92+Yunus+Emre+Tom;%24+cat+focus.txt+%E2%86%92+vision+%C2%B7+voice+%C2%B7+autonomy;%24+status+%E2%86%92+building+UAV+systems" alt="Yunus Emre Tom" />
 
-## ╰┈➤ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
-I'm a passionate developer focused on combining software and electronics to solve real-world problems. I actively develop projects using languages such as Python, C++, Java, and JavaScript, with a particular interest in artificial intelligence, computer vision, voice assistant systems, and embedded systems.
+<a href="https://linkedin.com/in/yunus-emre-tom-463706216/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="https://youtube.com/@yunusemretom"><img src="https://img.shields.io/badge/YouTube-0d1117?style=flat-square&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
+<a href="https://instagram.com/yunusemretom"><img src="https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+<a href="mailto:yunusemretom@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 
-### 🛠️ Areas I focus on:
-YOLO-based object detection systems
-Real-time computer vision on Jetson Nano
-Voice assistant and natural language processing applications with Python
-Autonomous software for RC aircraft and UAV systems
-Simple UI designs and automation tools (e.g. WhatsApp bots, voice command systems)
-I enjoy contributing to open-source projects and sharing what I learn with the community. I regularly document my work on GitHub and share my experiences through platforms like YouTube and Instagram.
+</div>
 
-#### 📌 Currently, I'm working on a voice assistant that understands Turkish and can control desktop applications using voice commands. I'm also developing autonomous systems and UAV projects for competitions like TEKNOFEST.
+---
 
-💡 My goal is to create sustainable, smart solutions by merging software with hardware. I see every project as a learning opportunity and strive to stay open to growth and innovation.
+```console
+yunus@github:~$ cat about.md
+```
 
-## 🌐.ᐟ Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yunusemretom) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yunus-emre-tom-463706216/)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yunusemretom)
+I build systems where software meets hardware — real-time computer vision on the edge,
+Turkish voice interfaces, and autonomous flight software. Most of my work starts as a
+competition project (TEKNOFEST and friends) and ends up open source.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YunusEmreTom&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false)
+```console
+yunus@github:~$ cat focus.txt
+```
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YunusEmreTom&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
+- **Computer vision** — YOLO-based detection & tracking, deployed on NVIDIA Jetson
+- **Voice AI** — Turkish speech recognition and voice-controlled desktop assistants
+- **UAV autonomy** — ROS 2, PX4 / ArduPilot, offboard control, SITL simulation
+- **Ground systems** — telemetry tooling and mission control interfaces
 
+```console
+yunus@github:~$ status
+```
+
+> Building a Turkish voice assistant that controls desktop apps, and autonomous UAV
+> software for TEKNOFEST competitions.
+
+---
+
+```console
+yunus@github:~$ ls -l ~/projects
+```
+
+| Project | What it is |
+| :--- | :--- |
+| [**Yer-Istasyonu**](https://github.com/yunusemretom/Yer-Istasyonu) | Open-source ground control station for UAV, rocket and satellite teams |
+| [**TOM_AI**](https://github.com/yunusemretom/TOM_AI) | AI-powered voice assistant with Turkish language support |
+| [**DogFight**](https://github.com/yunusemretom/DogFight) | ROS 2 + PX4 visual target tracking and offboard drone control |
+| [**Celik_Kubbe**](https://github.com/yunusemretom/Celik_Kubbe) | Vision-based air defense system built for Team Pars |
+
+---
+
+```console
+yunus@github:~$ stack --list
+```
+
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++" />
+<img src="https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=512BD4" alt="C#" />
+<img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+
+<img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+<img src="https://img.shields.io/badge/ROS_2-0d1117?style=flat-square&logo=ros&logoColor=22314E" alt="ROS 2" />
+<img src="https://img.shields.io/badge/PX4-0d1117?style=flat-square&logo=dronedeploy&logoColor=3FB950" alt="PX4" />
+<img src="https://img.shields.io/badge/Jetson-0d1117?style=flat-square&logo=nvidia&logoColor=76B900" alt="NVIDIA Jetson" />
+<img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+
+---
+
+```console
+yunus@github:~$ git log --stat
+```
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yunusemretom&theme=github_dark" alt="Profile summary" />
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yunusemretom&theme=github_dark" alt="Most used languages" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yunusemretom&theme=github_dark" alt="Repos per language" />
+
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yunusemretom/YunusEmreTom/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yunusemretom/YunusEmreTom/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/yunusemretom/YunusEmreTom/output/snake.svg" alt="Contribution snake" />
+</picture>
+
+</div>
+
+---
+
+```console
+yunus@github:~$ exit
+```
