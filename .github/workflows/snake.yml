@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate profile assets
 
 on:
   schedule:
@@ -14,14 +14,21 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
+
       - name: Generate snake svg
         uses: Platane/snk@v3
-        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg?color_snake=orange&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
             dist/snake-dark.svg?palette=github-dark
+
+      - name: Generate project cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OUT_DIR: dist
+        run: python3 .github/scripts/gen_cards.py
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

@@ -17,48 +17,11 @@ I build systems where software meets hardware — real-time computer vision on t
 
 ## `$` ls ~/projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/yunusemretom/Yer-Istasyonu"><img src="https://raw.githubusercontent.com/yunusemretom/YunusEmreTom/output/card-Yer-Istasyonu.svg" width="49%" alt="Yer-Istasyonu" /></a>
+<a href="https://github.com/yunusemretom/TOM_AI"><img src="https://raw.githubusercontent.com/yunusemretom/YunusEmreTom/output/card-TOM_AI.svg" width="49%" alt="TOM_AI" /></a>
 
-#### [Yer-Istasyonu](https://github.com/yunusemretom/Yer-Istasyonu)
-
-Open-source ground control station for UAV, rocket and satellite teams.
-
-<img src="https://img.shields.io/github/stars/yunusemretom/Yer-Istasyonu?style=flat-square&labelColor=0d1117&color=0d1117&logo=github&logoColor=8b949e" alt="stars" /> <img src="https://img.shields.io/github/languages/top/yunusemretom/Yer-Istasyonu?style=flat-square&labelColor=0d1117&color=0d1117" alt="language" />
-
-</td>
-<td width="50%" valign="top">
-
-#### [TOM_AI](https://github.com/yunusemretom/TOM_AI)
-
-AI-powered voice assistant with Turkish language support.
-
-<img src="https://img.shields.io/github/stars/yunusemretom/TOM_AI?style=flat-square&labelColor=0d1117&color=0d1117&logo=github&logoColor=8b949e" alt="stars" /> <img src="https://img.shields.io/github/languages/top/yunusemretom/TOM_AI?style=flat-square&labelColor=0d1117&color=0d1117" alt="language" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [DogFight](https://github.com/yunusemretom/DogFight)
-
-ROS 2 + PX4 visual target tracking and offboard drone control.
-
-<img src="https://img.shields.io/github/stars/yunusemretom/DogFight?style=flat-square&labelColor=0d1117&color=0d1117&logo=github&logoColor=8b949e" alt="stars" /> <img src="https://img.shields.io/github/languages/top/yunusemretom/DogFight?style=flat-square&labelColor=0d1117&color=0d1117" alt="language" />
-
-</td>
-<td width="50%" valign="top">
-
-#### [Celik_Kubbe](https://github.com/yunusemretom/Celik_Kubbe)
-
-Vision-based air defense system built for Team Pars.
-
-<img src="https://img.shields.io/github/stars/yunusemretom/Celik_Kubbe?style=flat-square&labelColor=0d1117&color=0d1117&logo=github&logoColor=8b949e" alt="stars" /> <img src="https://img.shields.io/github/languages/top/yunusemretom/Celik_Kubbe?style=flat-square&labelColor=0d1117&color=0d1117" alt="language" />
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/yunusemretom/DogFight"><img src="https://raw.githubusercontent.com/yunusemretom/YunusEmreTom/output/card-DogFight.svg" width="49%" alt="DogFight" /></a>
+<a href="https://github.com/yunusemretom/Celik_Kubbe"><img src="https://raw.githubusercontent.com/yunusemretom/YunusEmreTom/output/card-Celik_Kubbe.svg" width="49%" alt="Celik_Kubbe" /></a>
 
 ## `$` stack
 
