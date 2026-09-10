@@ -12,10 +12,12 @@ import urllib.request
 
 OWNER = "yunusemretom"
 REPOS = [
-    ("Yer-Istasyonu", "Open-source ground control station for UAV, rocket and satellite teams."),
-    ("TOM_AI", "AI-powered voice assistant with Turkish language support."),
-    ("DogFight", "ROS 2 + PX4 visual target tracking and offboard drone control."),
-    ("Celik_Kubbe", "Vision-based air defense system built for Team Pars."),
+    ("astr1", "ROS 2 indoor service robot: Nav2 mapping, face recognition, Turkish speech."),
+    ("DogFight", "ROS 2 + PX4 standoff pursuit for fixed-wing aircraft, with L1 guidance."),
+    ("Celik_Kubbe", "Air defense turret: web ground station, YOLO detection, ESP32 firmware."),
+    ("Yer-Istasyonu", "PyQt5 ground control station with flight instruments and a map."),
+    ("FIREFLY", "Autonomous pursuit controller: EKF target tracking with cascaded PID."),
+    ("Butce_Takibi", "Offline budget tracker: one React codebase, web and native Android."),
 ]
 
 W, H = 420, 132

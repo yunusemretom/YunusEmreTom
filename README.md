@@ -8,20 +8,27 @@
 
 ## `$` whoami
 
-I build systems where software meets hardware — real-time computer vision on the edge, Turkish voice interfaces, and autonomous flight software. Most of my work starts as a competition project (TEKNOFEST and friends) and ends up open source.
+Computer engineering student building systems where software meets hardware: real-time vision on the edge, autonomous flight control, and Turkish voice interfaces. Most of it starts as a TEKNOFEST competition project and ends up open source.
 
-- **Computer vision** — YOLO detection & tracking, deployed on NVIDIA Jetson
-- **Voice AI** — Turkish speech recognition, voice-controlled desktop assistants
-- **UAV autonomy** — ROS 2, PX4 / ArduPilot, offboard control, SITL simulation
-- **Ground systems** — telemetry tooling and mission control interfaces
+- **UAV autonomy** — ROS 2, PX4 / ArduPilot, offboard control, L1 guidance, SITL
+- **Robotics** — Nav2 and SLAM, sensor fusion, EKF state estimation
+- **Computer vision** — YOLO and RF-DETR detection and tracking, TensorRT on Jetson
+- **Embedded** — ESP32 / Arduino firmware, FreeRTOS, MAVLink, custom serial protocols
+- **Voice AI** — Turkish speech recognition and synthesis, LLM integration
+- **Web & mobile** — Node.js and Express, React, Capacitor
+
+Currently open to internships and freelance work in robotics, embedded systems and computer vision. The fastest way to see how I think is the "How it works" section of any repository below — each one documents the problem that took longest, not just the feature list.
 
 ## `$` ls ~/projects
 
-<a href="https://github.com/yunusemretom/Yer-Istasyonu"><img src="https://raw.githubusercontent.com/yunusemretom/YunusEmreTom/output/card-Yer-Istasyonu.svg" width="49%" alt="Yer-Istasyonu" /></a>
-<a href="https://github.com/yunusemretom/TOM_AI"><img src="https://raw.githubusercontent.com/yunusemretom/YunusEmreTom/output/card-TOM_AI.svg" width="49%" alt="TOM_AI" /></a>
-
+<a href="https://github.com/yunusemretom/astr1"><img src="https://raw.githubusercontent.com/yunusemretom/YunusEmreTom/output/card-astr1.svg" width="49%" alt="astr1" /></a>
 <a href="https://github.com/yunusemretom/DogFight"><img src="https://raw.githubusercontent.com/yunusemretom/YunusEmreTom/output/card-DogFight.svg" width="49%" alt="DogFight" /></a>
+
 <a href="https://github.com/yunusemretom/Celik_Kubbe"><img src="https://raw.githubusercontent.com/yunusemretom/YunusEmreTom/output/card-Celik_Kubbe.svg" width="49%" alt="Celik_Kubbe" /></a>
+<a href="https://github.com/yunusemretom/Yer-Istasyonu"><img src="https://raw.githubusercontent.com/yunusemretom/YunusEmreTom/output/card-Yer-Istasyonu.svg" width="49%" alt="Yer-Istasyonu" /></a>
+
+<a href="https://github.com/yunusemretom/FIREFLY"><img src="https://raw.githubusercontent.com/yunusemretom/YunusEmreTom/output/card-FIREFLY.svg" width="49%" alt="FIREFLY" /></a>
+<a href="https://github.com/yunusemretom/Butce_Takibi"><img src="https://raw.githubusercontent.com/yunusemretom/YunusEmreTom/output/card-Butce_Takibi.svg" width="49%" alt="Butce_Takibi" /></a>
 
 ## `$` stack
 
